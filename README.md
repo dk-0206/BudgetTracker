@@ -1,2 +1,2 @@
 # BudgetTracker
-This project is a type of Budget Tracker written in JAVA that helps you to track the Income, Expenditure, Current Balance, etc. 
+This project is a type of Budget Tracker written in JAVA that helps you to track the Income, Expenditure, Current Balance, etc. As of now, it is just CLI based means that you can only input and get output in the command line and not in a separate window. I am currently learning JAVA so I hope that I can complete it and make an application of pc and also create an android app for it.
